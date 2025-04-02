@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Lucas</h1>
-<h3 align="center">Soy estudiante de Desarrollo de Software en el Instituto Superior Santo Domingo</h3>
+<h3 align="center">Soy Desarrollor de Software</h3>
 
 - 📫 Como contactarme: **lucas9godoy@gmail.com**
 
