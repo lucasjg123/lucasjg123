@@ -7,7 +7,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width ="20%"></picture>
 
 Desarrollador de Software con más de 2 años de experiencia creando soluciones backend, frontend y despliegues en la nube.  
 Me especializo en **APIs escalables** y  **optimización de rendimiento**.
