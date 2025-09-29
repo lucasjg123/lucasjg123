@@ -28,10 +28,9 @@ Me especializo en **APIs escalables** y  **optimización de rendimiento**.
   <tr>
     <td>
       <strong>Lenguajes</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>  
+      <a href="https://skillicons.dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js,html,css,wasm" width="148" style="max-width: 100%;">
+      </a>
     </td>
     <td>
       <strong>Frontend</strong><br/>
@@ -41,7 +40,6 @@ Me especializo en **APIs escalables** y  **optimización de rendimiento**.
     </td>
   </tr>
 </table>
-
 
 
 
