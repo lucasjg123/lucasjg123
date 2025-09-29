@@ -17,7 +17,8 @@ Desarrollador de Software con más de 2 años de experiencia creando soluciones 
 <br><br> 
 
 ### 📌 Proyectos Destacados 
-- [MERN + AWS + Docker CRUD](https://github.com/lucasjg123/MERN-AWS-Docker-CrudArticulos) _Aplicación full stack con autenticación JWT, Docker y S3._
+- [MERN + AWS + Docker CRUD](https://github.com/lucasjg123/MERN-AWS-Docker-CrudArticulos) <br>
+  _Aplicación full stack con autenticación JWT, Docker y S3._
 
 <br><br> 
 
@@ -64,6 +65,12 @@ Desarrollador de Software con más de 2 años de experiencia creando soluciones 
   </tr> 
 </table> 
 
-### 📫 Contacto 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&width=100)](https://www.linkedin.com/in/lucas-javier-godoy/) &nbsp; 
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=Gmail&logoColor=white&width=100)](mailto:lucas9godoy@gmail.com)
+### 📫 Contacto
+<a href="https://www.linkedin.com/in/lucas-javier-godoy/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" width="90"/>
+</a>
+&nbsp;
+<a href="mailto:lucas9godoy@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-red?logo=Gmail&logoColor=white" width="90"/>
+</a>
+
