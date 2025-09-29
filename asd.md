@@ -1,56 +1,69 @@
-<h1 align="center">Hi , I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Arial&color=%23FF5733&size=22&center=true&vCenter=true&width=700&height=120&lines=Desarrollador+de+Software+con+m%C3%A1s+de+2+a%C3%B1os+de+experiencia;Creando+soluciones+backend+y+frontend;Especializado+en+optimización+de+rendimiento;APIs+modulares+y+despliegues+en+la+nube">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%23FF5733&size=22&center=true&vCenter=true&width=700&height=120&lines=Desarrollador+de+Software+con+m%C3%A1s+de+2+a%C3%B1os+de+experiencia;Creando+soluciones+backend+y+frontend;Especializado+en+optimización+de+rendimiento;APIs+modulares+y+despliegues+en+la+nube" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<p align="center"> 
+  <a href="https://readme-typing-svg.herokuapp.com?font=Arial&color=%23FF5733&size=22&center=true&vCenter=true&width=700&height=120&lines=Desarrollador+Full+Stack+🚀;Backend+%26+APIs+escalables+⚙️;Cloud+%26+DevOps+☁️;Optimización+de+rendimiento+⚡"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%23FF5733&size=22&center=true&vCenter=true&width=700&height=120&lines=Desarrollador+Full+Stack+🚀;Backend+%26+APIs+escalables+⚙️;Cloud+%26+DevOps+☁️;Optimización+de+rendimiento+⚡" /> 
+  </a> 
+</p> 
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width ="30%"></picture>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
 
-Desarrollador de Software con más de 2 años de experiencia creando soluciones backend, frontend y despliegues en la nube.  
-Me especializo en **APIs escalables** y  **optimización de rendimiento**.
-<br><br>
+<picture> 
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%">
+</picture> 
 
-### 📌 Proyectos Destacados
-- [MERN + AWS + Docker CRUD](https://github.com/lucasjg123/MERN-AWS-Docker-CrudArticulos)  
-  _Aplicación full stack con autenticación JWT, Docker y S3._  
+Desarrollador de Software con más de 2 años de experiencia creando soluciones backend, frontend y despliegues en la nube. Me especializo en **APIs escalables** y **optimización de rendimiento**.
 
-- [Sistema de Expensas .NET + MySQL](#)  
-  _Automatización de generación de expensas y reportes._  
+<br><br> 
 
-- [Gestión Académica PHP + MySQL](#)  
-  _Arquitectura en capas, APIs y reportes automáticos._  
-<br><br>
-### 🛠️ Skills
-<table width="100%">
-  <tr>
-    <td>
-      <strong>Lenguajes</strong><br/>
-      <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=js,html,css,wasm" width="148" style="max-width: 100%;">
-      </a>
-    </td>
-    <td>
-      <strong>Frontend</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>  
-    </td>
-  </tr>
-</table>
+### 📌 Proyectos Destacados 
+- [MERN + AWS + Docker CRUD](https://github.com/lucasjg123/MERN-AWS-Docker-CrudArticulos) _Aplicación full stack con autenticación JWT, Docker y S3._
 
+<br><br> 
 
+### 🛠️ Skills 
+<table width="100%"> 
+  <tr> 
+    <td width="60%"> 
+      <strong>Backend</strong><br/> 
+      <a href="https://skillicons.dev" target="_blank"> 
+        <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,dotnet,py,ts" width="348" style="max-width: 100%;"> 
+      </a> 
+    </td> 
+    <td> 
+      <strong>Frontend</strong><br/> 
+      <a href="https://skillicons.dev" target="_blank"> 
+        <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" width="248" style="max-width: 100%;"> 
+      </a> 
+    </td> 
+  </tr> 
+  <tr> 
+    <td> 
+      <strong>DataBase</strong><br/> 
+      <a href="https://skillicons.dev" target="_blank"> 
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb" width="100" style="max-width: 100%;"> 
+      </a> 
+    </td> 
+    <td> 
+      <strong>Cloud & DevOps</strong><br/> 
+      <a href="https://skillicons.dev" target="_blank"> 
+        <img src="https://skillicons.dev/icons?i=docker,aws" width="100" style="max-width: 100%;"> 
+      </a> 
+    </td> 
+  </tr> 
+  <tr> 
+    <td> 
+      <strong>Agile Methodologies</strong><br/> Jira & SCRUM 
+    </td> 
+    <td> 
+      <strong>Version Control</strong><br/> 
+      <a href="https://skillicons.dev" target="_blank"> 
+        <img src="https://skillicons.dev/icons?i=git,github" width="100" style="max-width: 100%;"> 
+      </a> 
+    </td> 
+  </tr> 
+</table> 
 
-
-
-
-**Backend & DB**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>  
-
-**Cloud & DevOps**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="35"/>  
+### 📫 Contacto 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&width=100)](https://www.linkedin.com/in/lucas-javier-godoy/) &nbsp; 
+[![Gmail](https://img.shields.io/badge/-Email-red?logo=Gmail&logoColor=white&width=100)](mailto:lucas9godoy@gmail.com)
