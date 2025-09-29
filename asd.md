@@ -14,7 +14,7 @@
 
 Desarrollador de Software con más de 2 años de experiencia creando soluciones backend, frontend y despliegues en la nube. Me especializo en **APIs escalables** y **optimización de rendimiento**.
 
-<br><br> 
+<br>
 
 ### 📌 Proyectos Destacados 
 - [MERN + AWS + Docker CRUD](https://github.com/lucasjg123/MERN-AWS-Docker-CrudArticulos) <br>
@@ -66,11 +66,17 @@ Desarrollador de Software con más de 2 años de experiencia creando soluciones 
 </table> 
 
 ### 📫 Contacto
+
 <a href="https://www.linkedin.com/in/lucas-javier-godoy/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" width="90"/>
 </a>
 &nbsp;
 <a href="mailto:lucas9godoy@gmail.com">
   <img src="https://img.shields.io/badge/-Email-red?logo=Gmail&logoColor=white" width="90"/>
-</a>
+</a>  
+<br>
+
+✉️ **lucas9godoy@gmail.com**
+
+
 
