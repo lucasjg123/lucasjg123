@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
 <p align="center"> 
   <a href="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2328a745&size=22&center=true&vCenter=true&width=700&height=120&lines=Desarrollador+Full+Stack+🚀;Backend+%26+APIs+escalables+⚙️;Cloud+%26+DevOps+☁️;Optimización+de+rendimiento+⚡"> 
